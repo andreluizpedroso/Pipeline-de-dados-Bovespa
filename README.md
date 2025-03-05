@@ -106,7 +106,7 @@ Este projeto consiste na construção de um **pipeline de dados completo** para 
 5. Abra um **Pull Request**.
 
 ## 📩 Contato
-Caso tenha dúvidas ou sugestões, entre em contato via [GitHub Issues](https://github.com/seu-usuario/seu-repositorio/issues).
+Caso tenha dúvidas ou sugestões, entre em contato via [GitHub Issues](https://github.com/andreluizpedroso/Pipeline-de-dados-Bovespa).
 
 ---
 
